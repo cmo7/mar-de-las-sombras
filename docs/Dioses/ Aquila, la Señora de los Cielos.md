@@ -11,7 +11,7 @@ title: " Aquila, la Señora de los Cielos"
 
 # Aquila, la Señora de los Cielos
 
-![[./Media/A0EDDEE9-8DC7-4B2B-BC01-345440C0CD40.webp|A0EDDEE9-8DC7-4B2B-BC01-345440C0CD40.webp]]
+![[../Media/A0EDDEE9-8DC7-4B2B-BC01-345440C0CD40.webp|A0EDDEE9-8DC7-4B2B-BC01-345440C0CD40.webp]]
 
 > [!quote]
 > *"Aquila, Señora de los Cielos, extiende tus alas sobre nosotros y guía nuestras rutas por los vientos que tú dominas. Que tus ojos de águila vean más allá del horizonte y nos conduzcan a puerto seguro, alejados de la tempestad y del naufragio."*  
