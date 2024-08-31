@@ -1,4 +1,5 @@
 ---
+title: Calador
 tags:
   - lugar
   - lore

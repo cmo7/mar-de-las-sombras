@@ -1,4 +1,5 @@
 ---
+title: Piratería en el Mar de las Sombras
 tags:
   - lore
 share: "true"
