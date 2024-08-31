@@ -33,6 +33,7 @@ export const sharedPageComponents: SharedLayout = {
       "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
+  afterBody: [],
 }
 
 // components for pages that display a single page (e.g. a single note)
